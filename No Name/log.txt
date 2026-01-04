@@ -1,0 +1,6 @@
+User symptoms: fever, cough, headache
+User symptoms: fever headache muscle sore cough chest pain
+User symptoms: abdominal-pain, bloating, chest-pain, chills, cough, dizziness, fatigue, fever, headache, itchy-eyes, loss-of-appetite, muscle-pain, nausea, runny-nose, sensitivity-to-light, shortness-of-breath, sneezing, sore-throat
+User symptoms: 
+User symptoms: cough, fever
+User symptoms: chest-pain, cough, fever
